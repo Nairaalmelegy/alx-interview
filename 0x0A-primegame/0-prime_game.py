@@ -33,6 +33,7 @@ def isWinner(x, nums):
                     return "Winner: Ben"
                 return None
 
+
 def is_prime(n):
     """Returns True if n is prime, else False."""
     if n < 2:
